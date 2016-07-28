@@ -1,0 +1,74 @@
+th{
+    text-align: center;
+}
+.foto{
+    position: relative;
+    float: right;
+    left: -8%;
+}
+.negacion{
+    padding: 2px 4px;
+    font-size: 90%;
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+    border:1px solid red;
+}
+.confirmacion{    
+    padding: 2px 4px;
+    font-size: 90%;
+    color: green;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+    border:1px solid green;    
+}
+#panel-izq{
+    width: 30%;
+    max-width: 1200px; 
+}
+#panel-sup{
+    position: relative;
+    top: -257px;
+    left: 31%;
+    width: 30%;
+    max-width: 1200px;
+}
+#panel-inf{
+    position: absolute;
+    top: 225px;
+    left: 68%;
+    width: 25%;
+    max-width: 1200px; 
+}
+.tabla{
+    float: left;
+    width: 80%;
+}
+/////////////////////////////
+#fotoU{
+    position: absolute;
+    top: 125px;
+    left: 70%;
+}
+#grup-input{
+    float: left;
+    position: relative;
+    top: 0px;
+    left: 0%;
+    width: 62%;
+    margin-left: 0px;
+    padding-left:0px;
+}
+#infU-izq{
+    float: left;
+    position: absolute;
+    left: 69%;
+    width: 20%;
+    padding-left:0px;
+}
+#btn-guardar{
+    position: relative;
+    float: left;
+    top: -140px;
+    left: 75%;
+}
